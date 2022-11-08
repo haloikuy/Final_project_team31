@@ -1,0 +1,4 @@
+gem "minima"
+$ bundle
+title: Final Poject by BeiChen and YucenXie(Team31)
+description: This is a final project about hotels booking demand.
