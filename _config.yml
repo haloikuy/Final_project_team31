@@ -3,5 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Final Poject by BeiChen and YucenXie(Team31)
 description: This is a final project about hotels booking demand.
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: ["true"]
