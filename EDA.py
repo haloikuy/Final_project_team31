@@ -88,7 +88,7 @@ st.pyplot(fig)
 st.header('Some filters & Visualization')
 #Interactive tools 1
 # create a price filter
-adr_filter = st.slider('Average room price(adr)', 62.0, 157.71, 65.0)  # min, max, default
+adr_filter = st.sidebar.slider('Average room price(adr)', 62.0, 157.71, 65.0)  # min, max, default
 # filter by price
 df = df[df.adr >= adr_filter]
 
