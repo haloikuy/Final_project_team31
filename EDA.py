@@ -291,7 +291,7 @@ plt.xlabel('Months')
 
 plt.tight_layout()
 st.pyplot(fig)
-st.subheader('See the analysis on the next page')
+st.subheader('See the analysis on the next page!')
 
 
 
